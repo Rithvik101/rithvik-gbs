@@ -1,0 +1,33 @@
+{
+    "name": "Rithvik GBS",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "cn-ninja-invaders-gbs": "github:calebmamula/cn-ninja-invaders-gbs#7de542e8a8ad48cae6b0e361710fc331a7367bd9"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.46",
+        "tag": "v1.12.46",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/e66fb08db35df2249cd64300195259c64d497106",
+        "target": "1.12.46",
+        "pxt": "8.5.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}

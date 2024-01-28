@@ -1,0 +1,17 @@
+{
+    "P!SN:(/KL=)hR}9=bfH@": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAA/wAAAAAAAP//AAD/AADwjw8AAP//APD4DwAA8PgP8P8AAADwj///DwAAAAD//4gPAAAAAADwiP//AAAAAPD///gPAAAA/w/wjw8AAPCPDwD//wAA8PgPAAD/AAD//wAAAAAAAP8AAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ninjaStar"
+    },
+    "image1": {
+        "data": "hwQMABAAAAAAAgIAAAAAAAAgAAAAIAIAACIiACACAAAgsi0CIiICICIiESIiIiIiIiLxIiIiIiIiItsiIiIiACIi8SIiIiIiIiIRIiIiIiIgsi0CIiICIAAiIgAgAgAAAAAAAAAgAgA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ninja"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
